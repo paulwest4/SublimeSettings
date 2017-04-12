@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Colorsublime",
+		"GitGutter",
+		"LaTeX-cwl",
+		"LaTeXing",
+		"Material Color Scheme",
+		"Material Theme",
+		"Package Control",
+		"Predawn",
+		"Python Flake8 Lint",
+		"Rust Enhanced",
+		"RustAutoComplete",
+		"RustCodeFormatter",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Swift"
+	]
+}

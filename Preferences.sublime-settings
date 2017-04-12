@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/iPlastic (Flake8Lint) (SL).tmTheme",
+	"font_face": "Anonymous Pro",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_size": 4,
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
